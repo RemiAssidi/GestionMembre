@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Gestion</string>
+    <string name="members">Membres</string>
+    <string name="contract">Contrat</string>
+    <string name="my_company" translatable="false">My Company</string>
+    <string name="nameAddContractType">Nom</string>
+    <string name="nameWorkingTime">Heures hebdomadaire</string>
+    <string name="buttonCreateType">Ajouter</string>
+    <string name="titleCreateContractType">Création d\'un type de contract</string>
+    <string name="cr_er_contrat">Créer Contrat</string>
+    <string name="retour">Retour</string>
+    <string name="cr_ation_d_un_contrat">Création d\'un contrat</string>
+    <string name="type">Type</string>
+    <string name="horaires">Horaires</string>
+    <string name="cr_er">Créer</string>
+    <string name="cr_er_type">Créer Type</string>
+    <string name="cr_ation_d_un_membre">Création d\'un membre</string>
+    <string name="pr_nom">Prénom</string>
+    <string name="date_naissance">Date de Naissance</string>
+    <string name="contrat">Contrat</string>
+    <string name="modification_des_contrats">Modification des contrats</string>
+    <string name="debut">Debut</string>
+    <string name="fin">Fin</string>
+    <string name="horaire">Horaire</string>
+    <string name="modifier">Modifier</string>
+    <string name="name">Nom</string>
+    <string name="supprimer">Supprimer</string>
+    <string name="modification_des_membres">Modification des membres</string>
+    <string name="nom">Nom</string>
+    <string name="prenom">Prenom</string>
+    <string name="date_de_naissance">Date de Naissance</string>
+    <string name="textview" translatable="false">TextView</string>
+</resources>

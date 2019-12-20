@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gestion</string>
+    <string name="buttonCreateType">Add</string>
+    <string name="contract">Contract</string>
+    <string name="contrat">Contract</string>
+    <string name="cr_ation_d_un_contrat">Create contract</string>
+    <string name="cr_ation_d_un_membre">Create member</string>
+    <string name="cr_er">Create</string>
+    <string name="cr_er_contrat">Create contract</string>
+    <string name="cr_er_type">Create Type</string>
+    <string name="date_de_naissance">Birth Date</string>
+    <string name="date_naissance">Birth Date</string>
+    <string name="debut">Start</string>
+    <string name="fin">End</string>
+    <string name="horaire">Schedule</string>
+    <string name="horaires">Schedules</string>
+    <string name="members">Members</string>
+    <string name="modification_des_contrats">Change contracts</string>
+    <string name="modification_des_membres">Change member</string>
+    <string name="modifier">Modify</string>
+    <string name="name">Name</string>
+    <string name="nameAddContractType">Name</string>
+    <string name="type">Type</string>
+    <string name="titleCreateContractType">Create contract type</string>
+    <string name="supprimer">Delete</string>
+    <string name="retour">Back</string>
+    <string name="prenom">First Name</string>
+    <string name="pr_nom">First Name</string>
+    <string name="nom">Last Name</string>
+    <string name="nameWorkingTime">Weekly Hours</string>
+</resources>
